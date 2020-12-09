@@ -1,0 +1,9 @@
+C:\Users\Bas Damen\documents\visual studio 2010\Projects\runme\runme\bin\Debug\windrop.exe
+C:\Users\Bas Damen\documents\visual studio 2010\Projects\runme\runme\bin\Debug\windrop.pdb
+C:\Users\Bas Damen\documents\visual studio 2010\Projects\runme\runme\obj\x86\Debug\windrop.exe
+C:\Users\Bas Damen\documents\visual studio 2010\Projects\runme\runme\obj\x86\Debug\windrop.pdb
+C:\Users\Bas Damen\Documents\windrop-main\source\runme\obj\x86\Debug\windrop.exe
+C:\Users\Bas Damen\Documents\windrop-main\source\runme\obj\x86\Debug\windrop.pdb
+C:\Users\Bas Damen\Documents\windrop-main\source\runme\bin\Debug\windrop.exe
+C:\Users\Bas Damen\Documents\windrop-main\source\runme\bin\Debug\windrop.pdb
+C:\Users\Bas Damen\Documents\windrop-main\source\runme\obj\x86\Debug\runme.csprojResolveAssemblyReference.cache
